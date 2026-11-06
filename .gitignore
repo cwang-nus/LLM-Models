@@ -3,3 +3,6 @@
 # Large model archives
 *.zip
 *.zip.part-*
+linux-wheels/torch-2.8.0+cu126-*.whl
+torch-2.8.0+cu126-*.whl
+linux-wheels/torch-2.8.0+cu126-*.whl
